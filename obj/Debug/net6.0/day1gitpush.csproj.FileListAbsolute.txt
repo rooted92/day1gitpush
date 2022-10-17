@@ -1,0 +1,15 @@
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\bin\Debug\net6.0\day1gitpush.exe
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\bin\Debug\net6.0\day1gitpush.deps.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\bin\Debug\net6.0\day1gitpush.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\bin\Debug\net6.0\day1gitpush.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\bin\Debug\net6.0\day1gitpush.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\day1gitpush.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\day1gitpush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\day1gitpush.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\day1gitpush.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\day1gitpush.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\day1gitpush.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\refint\day1gitpush.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\day1gitpush.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\day1gitpush.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\week1\day1gitpush\obj\Debug\net6.0\ref\day1gitpush.dll
